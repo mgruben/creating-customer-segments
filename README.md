@@ -1,5 +1,5 @@
 # customer-segments
-Uses the Wholesale Customers Data Set to identify segments of customers in bulk data.
+Identifies segments of customers in the Wholesale Customers Data Set.
 
 This project was completed for the [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009).
 
