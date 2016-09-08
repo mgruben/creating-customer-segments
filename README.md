@@ -1,4 +1,4 @@
-# customer-segments
+# creating-customer-segments
 Identifies segments of customers in the Wholesale Customers Data Set.
 
 This project was completed for the [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009).
